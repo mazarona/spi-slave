@@ -1,4 +1,7 @@
 SPI Slave with a dual-port synchronous Memory wrapper that writes or reads from memory based on commands sent by the master.
+<br/>
+<br/>
+Note: This is the final project of [kareem waseem's digital design diploma](https://github.com/mazarona/kareem-waseem-digital-design)
 
 # FSM
 
